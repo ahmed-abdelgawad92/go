@@ -65,3 +65,9 @@ func Map() {
 	}
 
 }
+
+// //MapExample sd f
+// func MapExample() {
+// 	//keys are string //values are int
+// 	personSalary := make(map[string]int)
+// }
